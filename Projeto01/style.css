@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(29, 197, 29);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+
+
+
+}
+header {
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: 15px;
+    margin: 200px 20px 0px 20px;
+    background-image: "docinhovibrando";
+    
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    margin: 0px 20px 0px 20px;
+    font-size: 15px;
+    
+
+}
+button {
+    margin: 30px;
+    font-size: 20px;
+
+}
