@@ -1,2 +1,2 @@
-# marasoares.github.io
-Descobrindo um novo amor... Front-End
+# pokedex
+Projeto 2 - Pokédex
